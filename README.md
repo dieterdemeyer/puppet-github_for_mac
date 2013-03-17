@@ -1,9 +1,9 @@
-# Mac GitHub Client Puppet Module for Boxen
+# Github for Mac Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include mac_github_client
+include github_for_mac
 ```
 
 ## Required Puppet Modules
