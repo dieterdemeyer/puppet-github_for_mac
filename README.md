@@ -1,5 +1,7 @@
 # Github for Mac Puppet Module for Boxen
 
+Install [Github for Mac](http://mac.github.com/), The easiest way to share your code with GitHub.
+
 ## Usage
 
 ```puppet
